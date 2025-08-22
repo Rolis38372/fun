@@ -3577,4 +3577,3 @@ end)
 
 -- === Уведомление при запуске ===
 showNotification("WordBypasser загружен!", 2)
-end
